@@ -1,0 +1,12 @@
+[{"name":"bananas",
+    "price":"1.45/lb",
+    "color":"yellow"},
+{"name":"orange",
+    "price":"1.5/lb",
+    "color":"orange"},
+{"name":"apples",
+    "price":"2.5/lb",
+    "color":"red"},
+{"name":"peaches",
+    "price":"3.5/lb",
+    "color":"peach"}]
